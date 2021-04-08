@@ -1,6 +1,7 @@
 # Agence Web
 ## Introduction
-Quand on parle des technologies numériques, on y pense généralement à tout ce qui est dans le milieu de l’internet, des sites web, etc. Le monde du web ne cesse de s’accroître beaucoup à nos jours et permet à chaque pays d’accélérer leur développement socio-économique.  
+Quand on parle des technologies numériques, on y pense généralement le milieu de l’internet, des sites web, jeux vidéos , interfaces et platormes de blogs ou forums etc...
+Le monde du web ne cesse de s’accroître beaucoup à nos jours et permet à chaque pays d’accélérer leur développement socio-économique.  
 La concurrence se pose alors entre les grandes agences web, les start-ups ainsi que les freelances qui sont belles et bien évidemment évoluées grâce aux agences de communications traditionnelles qui sont l'origine ses différents créateurs de sites web.
 
 ## C'est quoi un "agence web"?

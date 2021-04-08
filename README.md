@@ -10,7 +10,7 @@ Sans oublier que c'est un enseigne très riche et dévéloppé dans le temps , i
 
 Une agence web est donc une entreprise spécialisée dans la création et la mise à jour de sites web et tout ce qui est interfaces web comme on vient de citer en haut.
 
-## Qu'attendent les clients aux agences web?
+## Qu'attendent les clients ?
 Les agences ou un agence web fait en sorte d'assurer la réalisation de votre projet dans sa globalité afin de vous proposer la solution qui vous convient et qui vous satisferez le plus. 
 Cela peut-être:
 

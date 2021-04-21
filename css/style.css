@@ -1,63 +1,61 @@
-html, body {
-    margin: 0;
-    height: 100%;
-}
-
-/* HOMEPAGE & HEADER Style */
-header {
-    background-color: #000;
-    border-bottom-right-radius: 70%;
-    border-bottom-left-radius: 70%;
-    height: 150px;
-}
-
-#presentation {
-    height: 50%;
-}
-
-#main_content {
-    width: 50%;
-    margin: auto;
-}
-
-#main_content h1 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 50px;
-    text-align: center;
-    margin-bottom: 50px;
-    color: #ec1c7a;
-}
-
-#main_image {
-    margin: 0 0 160px 41px;
-}
-
-/* NAVBAR Style */
-nav {
-    background-color: #fff;
+/*************************
+*******Header******
+**************************/
+header .head-nav{
+    background: color #000;
+    color: #fff;
     border-radius: 30px;
+} 
+
+
+
+/*************************
+*******Body******
+**************************/
+section .card {
+    border-radius: 30px;
+    border: 1px solid #458FF6;
 }
 
-/* MAIN Presentation */
-#main_text h2 {
-    color: #ec1c7a;
+section .card:hover {
+    border-radius: 30px;
+    background-color: #458FF6;
+    color: #fff;
 }
 
-/* FOOTER Style */
-footer {
-    margin-top: 150px;
+
+section .card-title {
+    font-size: 15px;
+}
+
+section .card-body {
+    text-align: center;
+    
+}
+
+#home .padd-right {
+    padding-right: 150px;
+}
+
+#home .txt-justify {
+    text-align: justify;
+}
+
+
+
+/*************************
+*******Footer******
+**************************/
+
+#footer {
+    padding-bottom: 75px;
+    /*background-image: url(../img-beeweb/bande-beeweb.png); */
     background-color: #000;
-    border-top-right-radius: 70%;
-    border-top-left-radius: 70%;
-}
-
-footer img {
-    padding-bottom: 20%;
-}
-
-#rtl {
-    direction: rtl;
-    color: #ffff;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #fff;
 }
 
 
+
+  

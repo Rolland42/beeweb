@@ -23,10 +23,8 @@
         <div class="row row-cols-1 row-cols-md-3 g-5">
             <div class="col">
                 <div class="card h-100">
-                
                     <div class="card-body">
-                        <h3 class="card-title">WEB DESIGNER</h3>
-                        <a href="web-designer.php">Voir plus</a>
+                        <h3 class="card-title"><a href="web-designer.php">WEB DESIGNER</a></h3>
                     </div>
                 </div>
             </div>
@@ -34,109 +32,108 @@
             <div class="col">
                 <div class="card h-100">
                     <div class="card-body">
-                        <h3 class="card-title">UX DESIGNER</h3>
-                        <a href="ux-designer.php">Voir plus</a>
+                        <h3 class="card-title"><a href="ux-designer.php">UX DESIGNER</a></h3>
                     </div>
                 </div>
             </div>
 
             <div class="col">
                 <div class="card h-100">
-                
-                <div class="card-body">
-                    <h3 class="card-title">UI DESIGNER</h3>
-                    <a href="ui-designer.php">Voir plus</a>
-                </div>
-                </div>
-            </div>
-
-            <div class="col">
-                <div class="card h-100">
-                
-                <div class="card-body">
-                    <h3 class="card-title">RESPONSABLE ÉDITORIAL</h3>
-                    <a href="resp-edi.php">Voir plus</a>
-                </div>
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="ui-designer.php">UI DESIGNER</a>
+                        </h3>
+                    </div>
                 </div>
             </div>
 
             <div class="col">
                 <div class="card h-100">
-                
-                <div class="card-body">
-                    <h3 class="card-title">RÉDACTEUR WEB</h3>
-                    <a href="redac-web.php">Voir plus</a>
-                </div>
-                </div>
-            </div>
-
-            <div class="col">
-                <div class="card h-100">
-                
-                <div class="card-body">
-                    <h3 class="card-title">UX WRITER</h3>
-                    <a href="ux-writer.php">Voir plus</a>
-                </div>
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="resp-edi.php">RESPONSABLE ÉDITORIAL</a>
+                        </h3>
+                    </div>
                 </div>
             </div>
 
             <div class="col">
                 <div class="card h-100">
-                
-                <div class="card-body">
-                    <h3 class="card-title">DÉVÉLOPPEUR FRONT/BACK-END &amp; FULL-STACK</h3>
-                    <a href="dev.php">Voir plus</a>
-                </div>
-                </div>
-            </div>
-
-            <div class="col">
-                <div class="card h-100">
-                
-                <div class="card-body">
-                    <h2 class="card-title">COMMUNITY &amp; TRAFFIC MANAGER</h2>
-                    <a href="manager.php">Voir plus</a>
-                </div>
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="redac-web.php">RÉDACTEUR WEB</a>
+                        </h3>
+                    </div>
                 </div>
             </div>
 
             <div class="col">
                 <div class="card h-100">
-                
-                <div class="card-body">
-                    <h3 class="card-title">RÉFÉRENCEUR SEO/SEA &amp; CONSULTANT SMO</h3>
-                    <a href="seo-sea.php">Voir plus</a>
-                </div>
-                </div>
-            </div>
-
-            <div class="col">
-                <div class="card h-100">
-                
-                <div class="card-body">
-                    <h3 class="card-title">SOCIAL MEDIA MANAGER</h3>
-                    <a href="soc-med.php">Voir plus</a>
-                </div>
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="ux-writer.php">UX WRITER</a>
+                        </h3>
+                    </div>
                 </div>
             </div>
 
             <div class="col">
                 <div class="card h-100">
-                
-                <div class="card-body">
-                    <h3 class="card-title">CHARGÉ DE COMMUNICATION WEB</h3>
-                    <a href="com-web.php">Voir plus</a>
-                </div>
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="dev.php" class="area-padding-a">DÉVELOPPEUR FRONT-END/BACK-END & FULL STACK</a>
+                        </h3>
+                    </div>
                 </div>
             </div>
 
             <div class="col">
                 <div class="card h-100">
-                
-                <div class="card-body">
-                    <h3 class="card-title">RESPONSABLE COMMUNICATION ON-LINE/E-BRAND</h3>
-                    <a href="com-on-line.php">Voir plus</a>
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="manager.php" class="area-padding-a">COMMUNITY & TRAFFIC MANAGER</a>
+                        </h3>
+                    </div>
                 </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="seo-sea.php" class="area-padding-a">RÉFÉRENCEUR SEO/SEA & CONSULTANT SMO</a>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="soc-med.php" class="area-padding-a3">SOCIAL MEDIA MANAGER</a>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="com-web.php" class="area-padding-a2">CHARGÉ DE COMMUNICATION WEB</a>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h3 class="card-title">
+                            <a href="com-on-line.php" class="area-padding-a2">RESPONSABLE COMMUNICATION ONLINE/E-BRAND</a>
+                        </h3>
+                    </div>
                 </div>
             </div>
 

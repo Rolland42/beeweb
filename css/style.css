@@ -1,10 +1,8 @@
 /*************************
 *******Header******
 **************************/
-header .head-nav{
-    background: color #000;
-    color: #fff;
-    border-radius: 30px;
+header .head-nav {
+    font-family: 'Times New Roman', Times, serif;
 } 
 
 
@@ -12,6 +10,10 @@ header .head-nav{
 /*************************
 *******Body******
 **************************/
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 section .card {
     border-radius: 30px;
     border: 1px solid #458FF6;
@@ -26,11 +28,15 @@ section .card:hover {
 
 section .card-title {
     font-size: 15px;
+    margin: 0;
 }
 
 section .card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    
+    padding: 0;
 }
 
 #home .padd-right {
@@ -39,6 +45,34 @@ section .card-body {
 
 #home .txt-justify {
     text-align: justify;
+}
+
+.card-body h3 a {
+    display: block;
+    padding: 28px 128px;
+    text-decoration: none;
+}
+
+.card-body h3 .area-padding-a {
+    display: block;
+    padding: 41px 87px;
+    text-decoration: none;
+}
+
+.card-body h3 .area-padding-a2 {
+    display: block;
+    padding: 41px 74px;
+    text-decoration: none;
+}
+
+.card-body h3 .area-padding-a3 {
+    display: block;
+    padding: 50px 106px;
+    text-decoration: none;
+}
+
+.card-body h3 a:hover {
+    color: #fff;
 }
 
 
@@ -55,6 +89,50 @@ section .card-body {
     background-size: contain;
     color: #fff;
 }
+
+#icone {
+    float: right;
+    padding-top: 100px;
+    ;
+}
+
+/******************************* icône modal button***********************/
+.modal {
+    display: none;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+} 
+
 
 
 

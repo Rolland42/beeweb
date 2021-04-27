@@ -1,9 +1,9 @@
     <footer id="footer">
         <div class="container mt-5 pt-5">
-            <div class="row d-flex align">
+            <div class="row ">
 
                 <div class="mentions col-6 col-md-4">
-                    <p>Licences</p>
+                    <p>Licence</p>
                     <a href="mentions.php">Mentions légales</a>
                 </div>
                 
@@ -18,19 +18,19 @@
                     </div>
                 </div>
 
-                <div class="row">
+                <div class="row ">
                     
                     <div id="icone col-3-md">
                         <a href="https://github.com/Fire-Owl/sonia-tiavina" class="github"><img src="img-beeweb\github.png" alt="github_de_fire-owl_doc_sonia-tiavina"></a>
                         
                     </div>
 
-                    <div class="row">
+                    <div class="row icon">
                         <a id="button"><img src="img-beeweb\linkedin.png"></a>
 
                         <div id="modal" class="modal">
 
-                            <div class="modal-content">
+                            <div class="modal-content ">
                                 <span id="close" class="close">&times;</span>
 
                                 <a href="https://www.linkedin.com/in/natacha-ralandison-731b47183/" id="Tiavina">Tiavina</a>

@@ -21,12 +21,12 @@
                 <div class="row ">
                     
                     <div id="icone col-3-md">
-                        <a href="https://github.com/Fire-Owl/sonia-tiavina" class="github"><img src="img-beeweb\github.png" alt="github_de_fire-owl_doc_sonia-tiavina"></a>
+                        <a href="https://github.com/Fire-Owl/sonia-tiavina" class="github"><img src="../assets/images/github.png" alt="github_de_fire-owl_doc_sonia-tiavina"></a>
                         
                     </div>
 
                     <div class="row icon">
-                        <a id="button"><img src="img-beeweb\linkedin.png"></a>
+                        <a id="button"><img src="../assets/images/linkedin.png"></a>
 
                         <div id="modal" class="modal">
 
@@ -48,8 +48,8 @@
         </div>
 
     </footer>
-
-    <script type="text/javascript" src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="../assets/scripts/main.js"></script>
 
 </body>
 </html>

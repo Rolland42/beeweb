@@ -1,4 +1,4 @@
-<?php include "header.php" ?>
+<?php include "../includes/header.php";?>
 
     <section id="page-breadcrumb">
         <div class="vertical-center sun">
@@ -19,14 +19,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0ms">
-                    <img src="img-beeweb\seo-sea.jpg" class="img-responsive" alt="">
+                    <img src="../assets/images/seo-sea.jpg" class="img-responsive" alt="">
                 </div>
                 <div class="col-sm-6 padding-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0ms">
                     <h2>Référenceur SEO et SEA et consultant SMO ? Qu'est ce qu'ils font en générale?</h2>
                     <h3>SEO</h3>
-                    <p>Le spécialiste du référencement a pour mission de faire apparaître un site Web en tête des résultats des moteurs de recherche en optimisant la qualité du contenu textuel du site .<br>
-                    Ils peuvent tester et mettre en œuvre diverses techniques de marketing des moteurs de recherche, des mots clés ou des expressions permettant d'augmenter le trafic vers un site, de mise en page de sites Web et de publicité pour l'optimisation des moteurs de recherche.<br>
-                    Ils doivent savoir l'importance des liens internes et leur capacité à résoudre les problèmes s'avère utile lorsqu'il s'agit de trouver les meilleurs emplacements et la meilleure approche des liens internes.</p>
+                    <p>Le spécialiste du référencement à pour mission de faire apparaître un site Web en tête des résultats des moteurs de recherche en optimisant la qualité du contenu textuel du site .<br>
+                    Il peut tester et mettre en œuvre diverses techniques de marketing des moteurs de recherche, des mots clés ou des expressions permettant d'augmenter le trafic vers un site, de mise en page de sites Web et de publicités pour l'optimisation des moteurs de recherche.<br>
+                    Il doit savoir l'importance des liens internes et leur capacité à résoudre les problèmes s'avère utile lorsqu'il s'agit de trouver les meilleurs emplacements et la meilleure approche des liens internes.</p>
                     <h3>SEA</h3>
                     <p>Le métier du consultant en référencement sponsorisé consiste à booster les performances d'un site sur les moteurs à partir de quelques mots-clés ou des liens sponsorisés . Expert en Search Engine Advertising (SEA), il cherche avant tout à générer du trafic de qualité sur le site en utilisant des campagnes publicitaires.<br>
                     Le responsable SEA/SEM, doit avoir de bonnes aptitudes dans le domaine des relations commerciales  ,en sa qualité de chef de projet SEA, est un expert chargé du référencement payant dans le domaine du marketing et de la communication web.</p>
@@ -39,4 +39,4 @@
         </div>
     </section>
     
-<?php include "footer.php" ?>
+    <?php include "../includes/footer.php" ?>

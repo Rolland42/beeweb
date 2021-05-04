@@ -24,7 +24,10 @@
                 <div class="col-sm-6 padding-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0ms">
                     <h2>Quand on parler d'UI Designer?</h2>
                     <p>Un UI Designer est chargé plutôt sur l'organisation des éléments graphiques et textuels du contenu en répondant à des normes techniques ainsi qu’aux principes d’identité d’une marque ,notamment via une charte graphique print et/ou web.
-                    <br/>Il travaille sur l’aspect visuel et le compte rendu d’une interface.</br>Il conçoit ainsi chaque page et veille à la cohérence des visuels avec le « itinéraire utilisateur » réalisé par l’UX designer.</p>
+                    <br/>Il travaille sur l’aspect visuel et le compte rendu d’une interface.
+                    </br>Il conçoit ainsi chaque page et veille à la cohérence des visuels avec le « itinéraire utilisateur » réalisé par l’UX designer.
+                    <br/>L’UI est l’abréviation de “User Interface” ou interface utilisateur. L’UI design consiste à produire tout ce qui se rapporte à l’environnement graphique de l’interface :
+                     disposition de l’écran, transitions, animations, interactions, boutons, textes, images, curseurs, champs de saisie etc. </p>
                 </div>
             </div>
         </div>

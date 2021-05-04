@@ -23,7 +23,10 @@
                 </div>
                 <div class="col-sm-6 padding-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0ms">
                     <h2>Rédacteur web comme métier , c'est quoi?</h2>
-                    <p>Le Rédacteur Web produit de la rédaction pour le contenu web, en maîtrisant l’optimisation le référencement naturel "SEO" et peut travailler en totalement en autonomie sur un projet.<br/> Il est censé être doté de culture générale en matière de rédaction en amenant à aborder d’innombrables sujets.<br/>Chaque rédacteur doit être capable de relier des liens entre plusieurs et les différentes thématiques, en écrivant des textes originaux.</p>
+                    <p>Le Rédacteur Web produit de la rédaction pour le contenu web, en maîtrisant l’optimisation le référencement naturel "SEO" et peut travailler en totalement en autonomie sur un projet.
+                    <br/> Il est censé être doté de culture générale en matière de rédaction en amenant à aborder d’innombrables sujets, tel que  juridiction, RH, actualités.... .
+                    <br/>Chaque rédacteur doit être capable de relier des liens entre les différentes thématiques, en écrivant des textes originaux.
+                    <br/>  Le rédacteur web travaille généralement sous la direction d’un responsable éditorial en charge d’élaborer une stratégie de contenu spécifique à chaque plateforme web. </p>
                 </div>
             </div>
         </div>

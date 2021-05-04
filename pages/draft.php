@@ -16,7 +16,7 @@
     </section>
 
     <section id="articles" class="container">
-        <h2>Les métiers du web et ces différents types:</h2>
+        <h2>Les métiers du web :</h2>
     </section>
     
     <section class="container mt-5">
@@ -126,7 +126,112 @@
                 </div>
             </div>
 
+            <!-- row -->
+            
+            <div class="card m-3 p-3" style="max-width: 396px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="../assets/images/developper.png" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">DÉVELOPPEUR WEB </h5>
+                        <p class="card-text">Le développeur travaille sur l'intégration de l'interface visuel du site ou l'application mobile avec laquelle les internautes sont en contact. Il est censé maîtriser les outils essentiels et langages de programmations basics : HTML , CSS et Javascript .</p>
+                    </div>
+                    </div>
+                    <div class="d-grid gap-2">
+                        <a href="dev.php"  class="btn btn-outline-secondary">Voir la fiche</a>
+                    </div>
+                </div>
+            </div>
 
+            <div class="card m-3 p-3" style="max-width: 396px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="../assets/images/manage.png" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">COMMUNITY MANAGER</h5>
+                        <p class="card-text">Le Community manager a pour mission d’assurer la présence d’une entreprise ou d’une marque sur les différents réseaux sociaux en fédérant autour d’elle une communauté d’internautes.</p>
+                    </div>
+                    </div>
+                    <div class="d-grid gap-2">
+                        <a href="manager.php"  class="btn btn-outline-secondary">Voir la fiche</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card m-3 p-3" style="max-width: 396px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="../assets/images/seo.png" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">RÉFÉRENCEUR</h5>
+                        <p class="card-text">Le spécialiste du référencement à pour mission de faire apparaître un site Web en tête des résultats des moteurs de recherche en optimisant la qualité du contenu textuel du site .</p>
+                    </div>
+                    </div>
+                    <div class="d-grid gap-2">
+                        <a href="seo-sea.php"  class="btn btn-outline-secondary">Voir la fiche</a>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- row -->
+            
+            <div class="card m-3 p-3" style="max-width: 396px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="../assets/images/social.png" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">SOCIAL MEDIA MANAGER </h5>
+                        <p class="card-text">L'objectif du Social Media Manager est de valoriser et d'optimiser l’image institutionnelle via l’ensemble des médias sociaux. </p>
+                    </div>
+                    </div>
+                    <div class="d-grid gap-2">
+                        <a href="soc-med.php"  class="btn btn-outline-secondary">Voir la fiche</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card m-3 p-3" style="max-width: 396px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="../assets/images/com.png" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">CHARGÉ DE COMMUNICATION WEB</h5>
+                        <p class="card-text">Les responsables de la communication sont chargés de superviser toutes les communications internes et externes d'une entreprise, en veillant à ce que son message soit cohérent et attrayant.</p>
+                    </div>
+                    </div>
+                    <div class="d-grid gap-2">
+                        <a href="com-web.php"  class="btn btn-outline-secondary">Voir la fiche</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card m-3 p-3" style="max-width: 396px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="../assets/images/brand.png" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">RESPONSABLE COMMUNICATION ONLINE/E-BRAND</h5>
+                        <p class="card-text">Les responsables de la communication sont chargés de superviser toutes les communications internes et externes d'une entreprise, en veillant à ce que son message soit cohérent et attrayant.</p>
+                    </div>
+                    </div>
+                    <div class="d-grid gap-2">
+                        <a href="com-on-line.php"  class="btn btn-outline-secondary">Voir la fiche</a>
+                    </div>
+                </div>
+            </div>
 
         </div>
     </section>
